@@ -1,0 +1,981 @@
+﻿model,price_inr,nhom_dong_may,tap_du_lieu
+Apple iPhone 11,38999,apple|apple iphone 11,train
+Apple iPhone 11 (128GB),46999,apple|apple iphone 11,train
+Apple iPhone 11 Pro Max,109900,apple|apple iphone 11 pro max,train
+Apple iPhone 12,51999,apple|apple iphone 12,test
+Apple iPhone 12 (128GB),55999,apple|apple iphone 12,test
+Apple iPhone 12 (256GB),67999,apple|apple iphone 12,test
+Apple iPhone 12 Mini,40999,apple|apple iphone 12 mini,train
+Apple iPhone 12 Mini (128GB),45999,apple|apple iphone 12 mini,train
+Apple iPhone 12 Mini (256GB),55999,apple|apple iphone 12 mini,train
+Apple iPhone 12 Pro (256GB),119900,apple|apple iphone 12 pro,train
+Apple iPhone 12 Pro (512GB),139900,apple|apple iphone 12 pro,train
+Apple iPhone 13,62999,apple|apple iphone 13,train
+Apple iPhone 13 (256GB),72999,apple|apple iphone 13,train
+Apple iPhone 13 (512GB),91999,apple|apple iphone 13,train
+Apple iPhone 13 Mini,64900,apple|apple iphone 13 mini,train
+Apple iPhone 13 Pro,119900,apple|apple iphone 13 pro,test
+Apple iPhone 13 Pro (1TB),147900,apple|apple iphone 13 pro,test
+Apple iPhone 13 Pro (256GB),129900,apple|apple iphone 13 pro,test
+Apple iPhone 13 Pro Max,129900,apple|apple iphone 13 pro max,train
+Apple iPhone 13 Pro Max (1TB),179900,apple|apple iphone 13 pro max,train
+Apple iPhone 13 Pro Max (256GB),139900,apple|apple iphone 13 pro max,train
+Apple iPhone 14,65999,apple|apple iphone 14,train
+Apple iPhone 14 (256GB),75999,apple|apple iphone 14,train
+Apple iPhone 14 (512GB),95999,apple|apple iphone 14,train
+Apple iPhone 14 Mini,69990,apple|apple iphone 14 mini,test
+Apple iPhone 14 Plus,74999,apple|apple iphone 14 plus,train
+Apple iPhone 14 Plus (256GB),84999,apple|apple iphone 14 plus,train
+Apple iPhone 14 Plus (512GB),104999,apple|apple iphone 14 plus,train
+Apple iPhone 14 Pro,119990,apple|apple iphone 14 pro,train
+Apple iPhone 14 Pro (1TB),172999,apple|apple iphone 14 pro,train
+Apple iPhone 14 Pro (256GB),129990,apple|apple iphone 14 pro,train
+Apple iPhone 14 Pro Max,129990,apple|apple iphone 14 pro max,train
+Apple iPhone 14 Pro Max (1TB),182999,apple|apple iphone 14 pro max,train
+Apple iPhone 14 Pro Max (256GB),139990,apple|apple iphone 14 pro max,train
+Apple iPhone 14 Pro Max (512GB),169900,apple|apple iphone 14 pro max,train
+Apple iPhone 15,82990,apple|apple iphone 15,train
+Apple iPhone 15 Plus,84990,apple|apple iphone 15 plus,train
+Apple iPhone 15 Pro,130990,apple|apple iphone 15 pro,train
+Apple iPhone 15 Pro Max,142990,apple|apple iphone 15 pro max,train
+Apple iPhone 15 Ultra,149900,apple|apple iphone 15 ultra,train
+Apple iPhone 7s,52990,apple|apple iphone 7s,train
+Apple iPhone 9,29990,apple|apple iphone 9,train
+Apple iPhone SE 2020,39900,apple|apple iphone se 2020,train
+Apple iPhone SE 3 2022,43900,apple|apple iphone se 3 2022,train
+Apple iPhone SE 4,49990,apple|apple iphone se 4,test
+Apple iPhone XR2,71999,apple|apple iphone xr2,train
+Asus ROG Phone 5s 5G,39999,asus|asus rog phone 5s 5g,train
+Asus ROG Phone 6,71999,asus|asus rog phone 6,train
+Asus ROG Phone 6 Batman Edition,72999,asus|asus rog phone 6 batman edition,train
+Asus ROG Phone 6 Pro 5G,89999,asus|asus rog phone 6 pro 5g,train
+Asus ROG Phone 6D Ultimate,107990,asus|asus rog phone 6d ultimate,test
+Asus ROG Phone 7,75990,asus|asus rog phone 7,test
+Asus ZenFone 9,63990,asus|asus zenfone 9,test
+Blackview BV5200 Pro,8990,blackview|blackview bv5200 pro,train
+BLU F91 5G,14990,blu|blu f91 5g,test
+CAT S22 Flip,14999,cat|cat s22 flip,train
+Cola Phone,14999,cola|cola phone,train
+Doogee S99,14999,doogee|doogee s99,train
+Doogee V Max,45999,doogee|doogee v max,train
+Duoqin F22 Pro,9990,duoqin|duoqin f22 pro,train
+Gionee G13 Pro,6190,gionee|gionee g13 pro,test
+Gionee K10,6999,gionee|gionee k10,train
+Gionee M12 Pro,7499,gionee|gionee m12 pro,train
+Google Pixel 2 XL,15990,google|google pixel 2 xl,train
+Google Pixel 3a XL,15999,google|google pixel 3a xl,train
+Google Pixel 4,20120,google|google pixel 4,train
+Google Pixel 5,36000,google|google pixel 5,train
+Google Pixel 5A,32999,google|google pixel 5a,train
+Google Pixel 6,40480,google|google pixel 6,train
+Google Pixel 6 Pro,54300,google|google pixel 6 pro,train
+Google Pixel 6 Pro (12GB RAM + 256GB),79700,google|google pixel 6 pro,train
+Google Pixel 6A,29999,google|google pixel 6a,test
+Google Pixel 7 5G,53100,google|google pixel 7 5g,train
+Google Pixel 7 Pro 5G,81999,google|google pixel 7 pro 5g,train
+Google Pixel 7A,34990,google|google pixel 7a,train
+Google Pixel 8,53990,google|google pixel 8,train
+Google Pixel 8 Pro,70990,google|google pixel 8 pro,test
+Honor 50,32990,honor|honor 50,train
+Honor 60 SE 5G,24990,honor|honor 60 se 5g,train
+Honor 70 5G,39990,honor|honor 70 5g,train
+Honor 70 5G (8GB RAM + 256GB),30990,honor|honor 70 5g,train
+Honor 80 Pro Plus,54990,honor|honor 80 pro plus,train
+Honor Magic 4 Pro Plus 5G,94990,honor|honor magic 4 pro plus 5g,train
+Honor Play 30,9999,honor|honor play 30,train
+Honor X6,13999,honor|honor x6,train
+Honor X7a,13999,honor|honor x7a,train
+Honor X8,16999,honor|honor x8,test
+Honor X8 5G,14990,honor|honor x8 5g,train
+Honor X9 5G,16999,honor|honor x9 5g,test
+Honor X9a,27999,honor|honor x9a,test
+Huawei Honor 9N,10949,huawei|huawei honor 9n,test
+Huawei Mate 30 RS Porsche Design,214990,huawei|huawei mate 30 rs porsche design,train
+Huawei Mate 40 Pro 4G,69990,huawei|huawei mate 40 pro 4g,train
+Huawei Mate 50 Pro 5G,99990,huawei|huawei mate 50 pro 5g,train
+Huawei Mate 50 RS Porsche Design,239999,huawei|huawei mate 50 rs porsche design,train
+Huawei Mate X,169000,huawei|huawei mate x,test
+Huawei Mate Xs 2,162990,huawei|huawei mate xs 2,train
+Huawei Nova 10,29990,huawei|huawei nova 10,train
+Huawei Nova 10 SE,23999,huawei|huawei nova 10 se,train
+Huawei Nova 7i,21990,huawei|huawei nova 7i,test
+Huawei Nova 9,29990,huawei|huawei nova 9,test
+Huawei Nova 9 SE,19990,huawei|huawei nova 9 se,test
+Huawei Nova Y61,21990,huawei|huawei nova y61,test
+Huawei Nova Y90,22990,huawei|huawei nova y90,train
+Huawei P40 Pro,82990,huawei|huawei p40 pro,test
+Huawei P50 Pro 4G,60999,huawei|huawei p50 pro 4g,train
+iKall Z18,6799,ikall|ikall z18,train
+iKall Z19,7999,ikall|ikall z19,test
+iKall Z19 Pro,8099,ikall|ikall z19 pro,train
+Infinix Hot 11S,9690,infinix|infinix hot 11s,test
+Infinix Hot 12,9999,infinix|infinix hot 12,train
+Infinix Hot 12 Play,8910,infinix|infinix hot 12 play,train
+Infinix Hot 12 Pro,10850,infinix|infinix hot 12 pro,train
+Infinix Hot 12 Pro (8GB RAM+ 128GB),12340,infinix|infinix hot 12 pro,train
+Infinix Hot 20,17999,infinix|infinix hot 20,train
+Infinix Hot 20 (6GB RAM+ 128GB),19999,infinix|infinix hot 20,train
+Infinix Hot 20 Play,8999,infinix|infinix hot 20 play,train
+Infinix Hot 20i,9999,infinix|infinix hot 20i,train
+Infinix Hot 20S,12999,infinix|infinix hot 20s,train
+Infinix Note 11 (6GB RAM + 128GB),12799,infinix|infinix note 11,train
+Infinix Note 11S (8GB RAM + 128GB),15999,infinix|infinix note 11s,train
+Infinix Note 12,11700,infinix|infinix note 12,train
+Infinix Note 12 (6GB RAM + 128GB),12999,infinix|infinix note 12,train
+Infinix Note 12 (G96),16999,infinix|infinix note 12 (g96),test
+Infinix Note 12 5G,15999,infinix|infinix note 12 5g,train
+Infinix Note 12 Pro,16900,infinix|infinix note 12 pro,train
+Infinix Note 12 Pro 5G,18999,infinix|infinix note 12 pro 5g,train
+Infinix Note 12 Turbo,14999,infinix|infinix note 12 turbo,test
+Infinix Note 12 VIP,19999,infinix|infinix note 12 vip,train
+Infinix Note 12i (2022),9999,infinix|infinix note 12i (2022),train
+Infinix Note 13 Pro,16999,infinix|infinix note 13 pro,train
+Infinix Smart 6,7320,infinix|infinix smart 6,train
+Infinix Smart 6 HD,6999,infinix|infinix smart 6 hd,train
+Infinix Smart 6 Plus,8299,infinix|infinix smart 6 plus,train
+Infinix Zero 20,17999,infinix|infinix zero 20,train
+Infinix Zero 5G 2023,19499,infinix|infinix zero 5g 2023,test
+Infinix Zero Ultra,36999,infinix|infinix zero ultra,train
+Infinix Zero X Pro,21990,infinix|infinix zero x pro,train
+iQOO 11 (16GB RAM + 256GB),64999,iqoo|iqoo 11,train
+iQOO 11 5G,59999,iqoo|iqoo 11 5g,train
+iQOO 11 Pro 5G,58990,iqoo|iqoo 11 pro 5g,train
+iQOO 7,24990,iqoo|iqoo 7,train
+iQOO 7 (12GB RAM + 256GB),35990,iqoo|iqoo 7,train
+iQOO 7 Legend,39990,iqoo|iqoo 7 legend,train
+iQOO 9 5G,34990,iqoo|iqoo 9 5g,train
+iQOO 9 5G (12GB RAM + 256GB),39990,iqoo|iqoo 9 5g,train
+iQOO 9 Pro 5G,59990,iqoo|iqoo 9 pro 5g,test
+iQOO 9 SE 5G,30990,iqoo|iqoo 9 se 5g,train
+iQOO 9 SE 5G (12GB RAM + 256GB),34949,iqoo|iqoo 9 se 5g,train
+iQOO 9T 5G,47990,iqoo|iqoo 9t 5g,test
+iQOO Neo 6 5G,28999,iqoo|iqoo neo 6 5g,train
+iQOO Neo 6 5G (12GB RAM + 256GB),33749,iqoo|iqoo neo 6 5g,train
+iQOO Neo 6 SE 5G,22990,iqoo|iqoo neo 6 se 5g,train
+iQOO Neo 7 5G,29999,iqoo|iqoo neo 7 5g,train
+iQOO Neo 7 Racing Edition,32990,iqoo|iqoo neo 7 racing edition,train
+iQOO Neo 7 SE 5G,24990,iqoo|iqoo neo 7 se 5g,train
+iQOO Z6 4G,14489,iqoo|iqoo z6 4g,train
+iQOO Z6 4G (6GB RAM + 128GB),15999,iqoo|iqoo z6 4g,train
+iQOO Z6 5G,15499,iqoo|iqoo z6 5g,train
+iQOO Z6 5G (6GB RAM + 128GB),16940,iqoo|iqoo z6 5g,train
+iQOO Z6 5G (8GB RAM + 128GB),18498,iqoo|iqoo z6 5g,train
+iQOO Z6 Lite (6GB RAM + 128GB),15499,iqoo|iqoo z6 lite,train
+iQOO Z6 Lite 5G,13989,iqoo|iqoo z6 lite 5g,train
+iQOO Z6 Pro 5G,21788,iqoo|iqoo z6 pro 5g,train
+iQOO Z6 Pro 5G (12GB RAM + 256GB),27999,iqoo|iqoo z6 pro 5g,train
+iQOO Z6 Pro 5G (8GB RAM + 128GB),23399,iqoo|iqoo z6 pro 5g,train
+iQOO Z7 5G,17999,iqoo|iqoo z7 5g,train
+iQOO Z7 Pro 5G,24999,iqoo|iqoo z7 pro 5g,train
+iQOO Z8 5G,14999,iqoo|iqoo z8 5g,train
+iQOO Z9,19990,iqoo|iqoo z9,train
+Itel A23 Pro,3999,itel|itel a23 pro,train
+itel A23s,4787,itel|itel a23s,train
+Itel A24 Pro,5990,itel|itel a24 pro,test
+itel A56,5490,itel|itel a56,train
+itel P36,6490,itel|itel p36,train
+itel S16,5990,itel|itel s16,train
+itel S16 Pro,6990,itel|itel s16 pro,train
+itel Vision 1 (3GB RAM + 32GB),5890,itel|itel vision 1,train
+itel Vision 3,6699,itel|itel vision 3,train
+itel Vision 3 (2GB RAM + 32GB),5785,itel|itel vision 3,train
+Jio JioPhone 5G,11990,jio|jio jiophone 5g,train
+Jio JioPhone Next,4649,jio|jio jiophone next,train
+Jio JioPhone Next (3GB RAM + 32GB),7499,jio|jio jiophone next,train
+Jio Phone 3,4499,jio|jio phone 3,train
+Lava Agni 5G,17990,lava|lava agni 5g,train
+Lava Blaze 5G,10999,lava|lava blaze 5g,test
+Lava Blaze NXT,8999,lava|lava blaze nxt,train
+Lava X3,6999,lava|lava x3,train
+LeEco S1 Pro,10999,leeco|leeco s1 pro,train
+Leitz Phone 2,124990,leitz|leitz phone 2,train
+Lenovo Legion Pro 2,59999,lenovo|lenovo legion pro 2,train
+Lenovo Legion Y90,46990,lenovo|lenovo legion y90,train
+Letv Y1 Pro,5499,letv|letv y1 pro,test
+Letv Y1 Pro Plus,5999,letv|letv y1 pro plus,train
+Letv Y2 Pro,6999,letv|letv y2 pro,train
+LG V60 ThinQ,79990,lg|lg v60 thinq,train
+LG Velvet 5G,54999,lg|lg velvet 5g,train
+LG Wing 5G,54999,lg|lg wing 5g,train
+Lyf Earth 1,3990,lyf|lyf earth 1,train
+Lyf Earth 2,3890,lyf|lyf earth 2,train
+Micromax IN 2B,6999,micromax|micromax in 2b,train
+Micromax IN 2B (6GB RAM + 64GB),7790,micromax|micromax in 2b,train
+Micromax IN 2C,5999,micromax|micromax in 2c,train
+Motorola Edge 20 Fusion 5G,18999,motorola|motorola edge 20 fusion 5g,train
+Motorola Edge 30 5G,22999,motorola|motorola edge 30 5g,train
+Motorola Edge 30 5G (8GB RAM + 128GB),24999,motorola|motorola edge 30 5g,train
+Motorola Edge 30 Fusion 5G,39999,motorola|motorola edge 30 fusion 5g,train
+Motorola Edge 30 Pro 5G,34999,motorola|motorola edge 30 pro 5g,test
+Motorola Edge 30 Ultra,54999,motorola|motorola edge 30 ultra,train
+Motorola Edge 30 Ultra (12GB RAM + 256GB),59999,motorola|motorola edge 30 ultra,train
+Motorola Edge 40 5G,34999,motorola|motorola edge 40 5g,train
+Motorola Edge 40 Fusion,42990,motorola|motorola edge 40 fusion,train
+Motorola Edge 40 Pro 5G,59990,motorola|motorola edge 40 pro 5g,train
+Motorola Edge Plus,57999,motorola|motorola edge plus,train
+Motorola Edge S,22490,motorola|motorola edge s,test
+Motorola Moto E13,10499,motorola|motorola moto e13,train
+Motorola Moto E22s,9022,motorola|motorola moto e22s,train
+Motorola Moto E32,8999,motorola|motorola moto e32,train
+Motorola Moto E32s,7990,motorola|motorola moto e32s,train
+Motorola Moto E32s (4GB RAM + 64GB),8859,motorola|motorola moto e32s,train
+Motorola Moto E40,7999,motorola|motorola moto e40,train
+Motorola Moto Edge 30 Neo,31990,motorola|motorola moto edge 30 neo,train
+Motorola Moto Edge S30 5G,23990,motorola|motorola moto edge s30 5g,train
+Motorola Moto Edge S30 Pro,34990,motorola|motorola moto edge s30 pro,train
+Motorola Moto Edge X30 Pro,59990,motorola|motorola moto edge x30 pro,train
+Motorola Moto G 5G,19990,motorola|motorola moto g 5g,train
+Motorola Moto G13,15999,motorola|motorola moto g13,train
+Motorola Moto G22,9499,motorola|motorola moto g22,train
+Motorola Moto G23,19999,motorola|motorola moto g23,train
+Motorola Moto G31,9999,motorola|motorola moto g31,train
+Motorola Moto G31 (6GB RAM+ 128GB),11999,motorola|motorola moto g31,train
+Motorola Moto G32,10499,motorola|motorola moto g32,train
+Motorola Moto G40 Fusion,14499,motorola|motorola moto g40 fusion,train
+Motorola Moto G42,10999,motorola|motorola moto g42,train
+Motorola Moto G51 5G,12999,motorola|motorola moto g51 5g,test
+Motorola Moto G52,11999,motorola|motorola moto g52,train
+Motorola Moto G52 (6GB RAM + 128GB),12999,motorola|motorola moto g52,train
+Motorola Moto G52 5G,16999,motorola|motorola moto g52 5g,train
+Motorola Moto G53,21999,motorola|motorola moto g53,train
+Motorola Moto G60,15999,motorola|motorola moto g60,test
+Motorola Moto G62 (8GB RAM + 128GB),16499,motorola|motorola moto g62,train
+Motorola Moto G62 5G,14999,motorola|motorola moto g62 5g,train
+Motorola Moto G71 5G,16999,motorola|motorola moto g71 5g,test
+Motorola Moto G72,19990,motorola|motorola moto g72,train
+Motorola Moto G72 4G,15999,motorola|motorola moto g72 4g,train
+Motorola Moto G73,25999,motorola|motorola moto g73,train
+Motorola Moto G82 (8GB RAM + 128GB),20499,motorola|motorola moto g82,train
+Motorola Moto G82 5G,18999,motorola|motorola moto g82 5g,test
+Motorola Moto G91 5G,19990,motorola|motorola moto g91 5g,train
+Motorola Moto S30 Pro,23990,motorola|motorola moto s30 pro,train
+Motorola Moto X30 Pro,41990,motorola|motorola moto x30 pro,train
+Motorola Moto X40,39999,motorola|motorola moto x40,test
+Motorola One Fusion Plus,19499,motorola|motorola one fusion plus,train
+Motorola One Macro,11490,motorola|motorola one macro,train
+Motorola ThinkPhone,49990,motorola|motorola thinkphone,test
+Nokia C01 Plus,5249,nokia|nokia c01 plus,train
+Nokia C21 Plus (4GB RAM + 64GB),8999,nokia|nokia c21 plus,train
+Nokia C31,9499,nokia|nokia c31,train
+Nokia G11 Plus,10499,nokia|nokia g11 plus,test
+Nokia G21,11999,nokia|nokia g21,train
+Nokia G21 (6GB RAM + 128GB),13499,nokia|nokia g21,train
+Nokia G60,28498,nokia|nokia g60,train
+Nokia N73 5G,46999,nokia|nokia n73 5g,test
+Nokia X100 5G,17990,nokia|nokia x100 5g,train
+Nokia X30,41990,nokia|nokia x30,test
+Nokia X50 5G,34999,nokia|nokia x50 5g,train
+Nokia X60 5G,39990,nokia|nokia x60 5g,train
+Nokia X60 Pro 5G,49990,nokia|nokia x60 pro 5g,train
+Nothing Phone 1,26749,nothing|nothing phone 1,train
+Nothing Phone 1 (12GB RAM + 256GB),35999,nothing|nothing phone 1,train
+Nothing Phone 1 (8GB RAM + 256GB),28249,nothing|nothing phone 1,train
+Nothing Phone 1 Lite,24990,nothing|nothing phone 1 lite,train
+Nothing Phone 2,39990,nothing|nothing phone 2,train
+Nubia Red Magic 6S 5G,44999,nubia|nubia red magic 6s 5g,train
+Nubia Red Magic 7S Pro,60990,nubia|nubia red magic 7s pro,train
+Nubia Red Magic 8 Pro 5G,46990,nubia|nubia red magic 8 pro 5g,train
+Nubia Red Magic 8 Pro Plus,60999,nubia|nubia red magic 8 pro plus,train
+Nubia Z40 Pro 5G,49990,nubia|nubia z40 pro 5g,test
+Nubia Z50,34999,nubia|nubia z50,train
+OnePlus 10 Pro 5G,60999,oneplus|oneplus 10 pro 5g,train
+OnePlus 10 Pro 5G (12GB RAM + 256GB),65499,oneplus|oneplus 10 pro 5g,train
+OnePlus 10 Pro 5G (12GB RAM + 512GB),74999,oneplus|oneplus 10 pro 5g,train
+OnePlus 10R 5G,32999,oneplus|oneplus 10r 5g,test
+OnePlus 10R 5G (12GB RAM + 256GB),36999,oneplus|oneplus 10r 5g,test
+OnePlus 10R Prime Edition,35389,oneplus|oneplus 10r prime edition,test
+OnePlus 10T,44999,oneplus|oneplus 10t,train
+OnePlus 10T (12GB RAM + 256GB),50999,oneplus|oneplus 10t,train
+OnePlus 10T (16GB RAM + 256GB),55999,oneplus|oneplus 10t,train
+OnePlus 11 5G,54999,oneplus|oneplus 11 5g,train
+OnePlus 11 Pro,69999,oneplus|oneplus 11 pro,train
+OnePlus 11R,39999,oneplus|oneplus 11r,test
+OnePlus 12 Pro,69999,oneplus|oneplus 12 pro,train
+OnePlus 6 (8GB RAM + 128GB),27999,oneplus|oneplus 6,train
+OnePlus 9 Pro,64800,oneplus|oneplus 9 pro,train
+OnePlus 9RT 5G,42999,oneplus|oneplus 9rt 5g,train
+OnePlus 9T,44999,oneplus|oneplus 9t,train
+OnePlus Ace 2,34999,oneplus|oneplus ace 2,train
+OnePlus Ace 5G,28990,oneplus|oneplus ace 5g,train
+OnePlus Ace Pro,47990,oneplus|oneplus ace pro,test
+OnePlus Ace Racing Edition 5G,22990,oneplus|oneplus ace racing edition 5g,train
+OnePlus Clover,14999,oneplus|oneplus clover,train
+OnePlus Nord 2 Lite 5G,22999,oneplus|oneplus nord 2 lite 5g,train
+OnePlus Nord 2T (12GB RAM + 256GB),33900,oneplus|oneplus nord 2t,train
+OnePlus Nord 2T 5G,28999,oneplus|oneplus nord 2t 5g,train
+OnePlus Nord 3 5G,27999,oneplus|oneplus nord 3 5g,train
+OnePlus Nord 3T 5G,29990,oneplus|oneplus nord 3t 5g,train
+OnePlus Nord 4 5G,29999,oneplus|oneplus nord 4 5g,train
+OnePlus Nord 5,34999,oneplus|oneplus nord 5,train
+OnePlus Nord CE 2 Lite 5G,19989,oneplus|oneplus nord ce 2 lite 5g,train
+OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB),21995,oneplus|oneplus nord ce 2 lite 5g,train
+OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB),24999,oneplus|oneplus nord ce 2 lite 5g,train
+OnePlus Nord CE 3 5G,21999,oneplus|oneplus nord ce 3 5g,train
+OnePlus Nord CE 3 Lite 5G,18999,oneplus|oneplus nord ce 3 lite 5g,train
+OnePlus Nord Lite,19999,oneplus|oneplus nord lite,test
+OnePlus Nord N10,25595,oneplus|oneplus nord n10,train
+OnePlus Nord N100,16990,oneplus|oneplus nord n100,train
+OnePlus Nord N20 5G,20990,oneplus|oneplus nord n20 5g,train
+OnePlus Nord N200,16990,oneplus|oneplus nord n200,train
+OnePlus Nord N300,18990,oneplus|oneplus nord n300,test
+OnePlus Nord SE,19999,oneplus|oneplus nord se,train
+OnePlus Z,24999,oneplus|oneplus z,train
+OPPO A1 Pro,20990,oppo|oppo a1 pro,train
+Oppo A12,9990,oppo|oppo a12,train
+OPPO A15,9999,oppo|oppo a15,train
+Oppo A15s (4GB RAM + 128GB),11490,oppo|oppo a15s,train
+OPPO A16,11999,oppo|oppo a16,train
+OPPO A16e,8999,oppo|oppo a16e,train
+OPPO A16e (4GB RAM + 64GB),8999,oppo|oppo a16e,train
+OPPO A16K (4GB RAM + 64GB),10999,oppo|oppo a16k,train
+OPPO A17,12499,oppo|oppo a17,train
+OPPO A17K,9499,oppo|oppo a17k,train
+Oppo A31 2020 (6GB RAM + 128GB),12490,oppo|oppo a31 2020,train
+OPPO A53 2020 (6GB RAM + 128GB),13990,oppo|oppo a53 2020,train
+OPPO A54,12199,oppo|oppo a54,train
+OPPO A54 (4GB RAM + 128GB),11990,oppo|oppo a54,train
+OPPO A54 (6GB RAM + 128GB),14999,oppo|oppo a54,train
+OPPO A55 4G,13499,oppo|oppo a55 4g,train
+OPPO A55 4G (6GB RAM + 128GB),14700,oppo|oppo a55 4g,train
+OPPO A55 5G,17990,oppo|oppo a55 5g,train
+Oppo A56 5G,17990,oppo|oppo a56 5g,train
+Oppo A56s,12999,oppo|oppo a56s,train
+OPPO A57 4G,11990,oppo|oppo a57 4g,train
+OPPO A57 4G (4GB RAM + 64 GB),13969,oppo|oppo a57 4g,train
+OPPO A58,18990,oppo|oppo a58,train
+OPPO A58x,13990,oppo|oppo a58x,test
+OPPO A73,15990,oppo|oppo a73,train
+OPPO A74 5G,15490,oppo|oppo a74 5g,train
+OPPO A76,16490,oppo|oppo a76,train
+OPPO A77,15499,oppo|oppo a77,train
+OPPO A77 (4GB RAM + 128 GB),15998,oppo|oppo a77,train
+Oppo A77 5G,21990,oppo|oppo a77 5g,train
+OPPO A77s,17999,oppo|oppo a77s,test
+Oppo A78,18999,oppo|oppo a78,train
+OPPO A96 4G,17999,oppo|oppo a96 4g,test
+Oppo A96 5G,22990,oppo|oppo a96 5g,train
+OPPO A97 5G,23990,oppo|oppo a97 5g,test
+Oppo A98,30990,oppo|oppo a98,train
+OPPO F17 Pro,18990,oppo|oppo f17 pro,train
+OPPO F19,14990,oppo|oppo f19,test
+OPPO F19 Pro,17994,oppo|oppo f19 pro,train
+OPPO F19 Pro Plus 5G,19990,oppo|oppo f19 pro plus 5g,train
+OPPO F19s,15988,oppo|oppo f19s,test
+OPPO F21 Pro 4G,20999,oppo|oppo f21 pro 4g,train
+OPPO F21 Pro 5G,25969,oppo|oppo f21 pro 5g,train
+OPPO F21s Pro,25895,oppo|oppo f21s pro,train
+OPPO F21s Pro 4G,21899,oppo|oppo f21s pro 4g,train
+OPPO F22 Pro,27660,oppo|oppo f22 pro,train
+OPPO F23 Pro,19990,oppo|oppo f23 pro,train
+OPPO F23 Pro Plus 5G,27990,oppo|oppo f23 pro plus 5g,test
+Oppo Find N 5G,92249,oppo|oppo find n 5g,train
+OPPO Find N Flip,89990,oppo|oppo find n flip,train
+Oppo Find N Fold,99990,oppo|oppo find n fold,train
+Oppo Find N2 5G,94990,oppo|oppo find n2 5g,train
+OPPO Find N2 Flip,70990,oppo|oppo find n2 flip,test
+Oppo Find X3 Pro,50990,oppo|oppo find x3 pro,train
+Oppo Find X5 Pro 5G,79990,oppo|oppo find x5 pro 5g,train
+Oppo Find X6,69990,oppo|oppo find x6,train
+Oppo Find X6 Pro,77990,oppo|oppo find x6 pro,train
+OPPO K10,13490,oppo|oppo k10,train
+OPPO K10 (8GB RAM + 128GB),16990,oppo|oppo k10,train
+OPPO K10 5G,16999,oppo|oppo k10 5g,train
+Oppo K10 Pro 5G,29990,oppo|oppo k10 pro 5g,train
+Oppo K10x 5G,16990,oppo|oppo k10x 5g,train
+Oppo K5 (8GB RAM + 128GB),19990,oppo|oppo k5,test
+OPPO Reno 10,32999,oppo|oppo reno 10,test
+OPPO Reno 10 Pro,42990,oppo|oppo reno 10 pro,train
+Oppo Reno 10 Pro Plus,58990,oppo|oppo reno 10 pro plus,test
+Oppo Reno 5,29990,oppo|oppo reno 5,test
+Oppo Reno 5 Pro 5G,38700,oppo|oppo reno 5 pro 5g,train
+Oppo Reno 5A,22990,oppo|oppo reno 5a,test
+OPPO Reno 6,26380,oppo|oppo reno 6,train
+OPPO Reno 6 Pro 5G,36760,oppo|oppo reno 6 pro 5g,train
+OPPO Reno 6 Pro Plus 5G,44990,oppo|oppo reno 6 pro plus 5g,test
+OPPO Reno 8 House of Dragon Edition,32990,oppo|oppo reno 8 house of dragon edition,test
+Oppo Reno 8 Pro (8GB RAM + 256GB),42990,oppo|oppo reno 8 pro,test
+OPPO Reno 8 Pro 5G,45999,oppo|oppo reno 8 pro 5g,test
+OPPO Reno 8 Pro House of Dragon Edition,45999,oppo|oppo reno 8 pro house of dragon edition,test
+OPPO Reno 8 Z,26990,oppo|oppo reno 8 z,train
+Oppo Reno 8T,29990,oppo|oppo reno 8t,test
+Oppo Reno 8T 4G,19999,oppo|oppo reno 8t 4g,train
+OPPO Reno 9 5G,28499,oppo|oppo reno 9 5g,test
+OPPO Reno 9 Pro 5G,39999,oppo|oppo reno 9 pro 5g,train
+OPPO Reno 9 Pro Plus,45999,oppo|oppo reno 9 pro plus,train
+OPPO Reno 9 Z,22990,oppo|oppo reno 9 z,train
+OPPO Reno7 5G,25994,oppo|oppo reno7 5g,train
+OPPO Reno7 Pro 5G,31994,oppo|oppo reno7 pro 5g,train
+OPPO Reno7 Z 5G,17999,oppo|oppo reno7 z 5g,test
+OPPO Reno8 5G,29340,oppo|oppo reno8 5g,train
+OPPO X 2021,134999,oppo|oppo x 2021,train
+Oukitel WP19,29990,oukitel|oukitel wp19,train
+Oukitel WP21,22990,oukitel|oukitel wp21,test
+Oukitel WP9,25899,oukitel|oukitel wp9,train
+POCO C31,6499,poco|poco c31,test
+POCO C31 (4GB RAM + 64GB),7499,poco|poco c31,test
+Poco C50,6499,poco|poco c50,train
+Poco C50 (3GB RAM + 32GB),7299,poco|poco c50,train
+Poco C55,7999,poco|poco c55,train
+Poco F3 GT,32999,poco|poco f3 gt,train
+Poco F4 (12GB RAM + 256GB),29999,poco|poco f4,train
+Poco F4 5G,25999,poco|poco f4 5g,train
+Poco F4 5G (8GB RAM + 128GB),27999,poco|poco f4 5g,train
+POCO F4 GT 5G,39999,poco|poco f4 gt 5g,train
+Poco F5,34990,poco|poco f5,train
+POCO F5 GT 5G,42999,poco|poco f5 gt 5g,train
+Poco F5 Pro,29999,poco|poco f5 pro,train
+Poco M2,10890,poco|poco m2,test
+POCO M2 Pro,12799,poco|poco m2 pro,train
+Poco M3,11499,poco|poco m3,train
+POCO M3 Pro 5G,15999,poco|poco m3 pro 5g,train
+POCO M3 Pro 5G (6GB RAM + 128GB),14799,poco|poco m3 pro 5g,train
+Poco M4 5G,11499,poco|poco m4 5g,train
+Poco M4 5G (6GB RAM + 128GB),13499,poco|poco m4 5g,train
+POCO M4 Pro 4G,11999,poco|poco m4 pro 4g,test
+POCO M4 Pro 4G (6GB RAM + 128GB),12999,poco|poco m4 pro 4g,test
+POCO M4 Pro 4G (8GB RAM + 128GB),13999,poco|poco m4 pro 4g,test
+Poco M4 Pro 5G,12999,poco|poco m4 pro 5g,train
+Poco M4 Pro 5G (6GB RAM + 128GB),14999,poco|poco m4 pro 5g,train
+Poco M4 Pro 5G (8GB RAM + 128GB),15999,poco|poco m4 pro 5g,train
+Poco M5,10799,poco|poco m5,train
+Poco M5 (6GB RAM + 128GB),14499,poco|poco m5,train
+Poco M6 Pro,19990,poco|poco m6 pro,train
+Poco X3,13499,poco|poco x3,train
+Poco X3 Pro,19650,poco|poco x3 pro,train
+Poco X4,14990,poco|poco x4,train
+POCO X4 GT 5G,24990,poco|poco x4 gt 5g,train
+POCO X4 GT 5G (8GB RAM + 256GB),28990,poco|poco x4 gt 5g,train
+Poco X4 Pro 5G,14999,poco|poco x4 pro 5g,train
+Poco X4 Pro 5G (6GB RAM + 128GB),16499,poco|poco x4 pro 5g,train
+Poco X4 Pro 5G (8GB RAM + 128GB),17999,poco|poco x4 pro 5g,train
+Poco X5,14999,poco|poco x5,train
+POCO X5 GT,29990,poco|poco x5 gt,test
+Poco X5 Pro,20999,poco|poco x5 pro,train
+Poco X6 Pro 5G,19999,poco|poco x6 pro 5g,train
+Realme 10,13999,realme|realme 10,train
+Realme 10 (8GB RAM + 128GB),16999,realme|realme 10,train
+Realme 10 5G,14499,realme|realme 10 5g,train
+Realme 10 Pro,18999,realme|realme 10 pro,train
+Realme 10 Pro (8GB RAM + 128GB),19999,realme|realme 10 pro,train
+Realme 10 Pro Plus,24999,realme|realme 10 pro plus,test
+Realme 10 Pro Plus (8GB RAM + 256GB),27999,realme|realme 10 pro plus,test
+Realme 10s,12999,realme|realme 10s,train
+Realme 11 Pro,28999,realme|realme 11 pro,train
+Realme 11 Pro Plus,24999,realme|realme 11 pro plus,train
+Realme 6 (6GB RAM + 64GB),12989,realme|realme 6,train
+Realme 6 Pro,14490,realme|realme 6 pro,test
+Realme 7 Pro (8GB RAM + 128GB),21999,realme|realme 7 pro,train
+Realme 8,15999,realme|realme 8,train
+Realme 8 (8GB RAM + 128GB),17999,realme|realme 8,train
+Realme 8 5G,16499,realme|realme 8 5g,train
+Realme 8 5G (8GB RAM + 128GB),18499,realme|realme 8 5g,train
+Realme 8i,12499,realme|realme 8i,train
+Realme 8i (6GB RAM + 128GB),13999,realme|realme 8i,train
+Realme 8s 5G,17999,realme|realme 8s 5g,train
+Realme 8s 5G (8GB RAM + 128GB),17499,realme|realme 8s 5g,train
+Realme 9 4G,14999,realme|realme 9 4g,test
+Realme 9 4G (8GB RAM + 128GB),15999,realme|realme 9 4g,test
+Realme 9 5G,13999,realme|realme 9 5g,train
+Realme 9 5G (6GB RAM + 128GB),15499,realme|realme 9 5g,train
+Realme 9 5G SE,18999,realme|realme 9 5g se,train
+Realme 9 5G SE (8GB RAM + 128GB),22998,realme|realme 9 5g se,train
+Realme 9 Pro 5G,18999,realme|realme 9 pro 5g,train
+Realme 9 Pro 5G (8GB RAM + 128GB),20999,realme|realme 9 pro 5g,train
+Realme 9 Pro Plus 5G,25900,realme|realme 9 pro plus 5g,test
+Realme 9 Pro Plus 5G (8GB RAM + 128GB),22994,realme|realme 9 pro plus 5g,test
+Realme 9 Pro Plus 5G (8GB RAM + 256GB),24494,realme|realme 9 pro plus 5g,test
+Realme 9i,12499,realme|realme 9i,train
+Realme 9i (4GB RAM + 128GB),13999,realme|realme 9i,train
+Realme 9i (6GB RAM + 128GB),14999,realme|realme 9i,train
+Realme 9i 5G,14965,realme|realme 9i 5g,train
+Realme 9i 5G (6GB RAM + 128GB),16999,realme|realme 9i 5g,train
+Realme A1,8999,realme|realme a1,train
+Realme C11,6490,realme|realme c11,train
+Realme C11 2021,6499,realme|realme c11 2021,train
+Realme C11 2021 (4GB RAM + 64GB),7749,realme|realme c11 2021,train
+Realme C2,6999,realme|realme c2,train
+Realme C21Y,6999,realme|realme c21y,train
+Realme C25Y (4GB RAM + 64GB),8999,realme|realme c25y,train
+Realme C2s,3499,realme|realme c2s,train
+Realme C30,5299,realme|realme c30,train
+Realme C30 (3GB RAM + 32GB),6299,realme|realme c30,train
+Realme C30s,7145,realme|realme c30s,train
+Realme C30s (4GB RAM + 64GB),8990,realme|realme c30s,train
+Realme C31,8299,realme|realme c31,train
+Realme C31 (4GB RAM + 64GB),8999,realme|realme c31,train
+Realme C32,9499,realme|realme c32,train
+Realme C33,8950,realme|realme c33,train
+Realme C33 (4GB RAM + 64GB),9999,realme|realme c33,train
+Realme C35,11828,realme|realme c35,train
+Realme C35 (4GB RAM + 128GB),12787,realme|realme c35,train
+Realme C35 (6GB RAM + 128GB),13999,realme|realme c35,train
+Realme G1,7999,realme|realme g1,train
+Realme GT 2 5G,28994,realme|realme gt 2 5g,train
+Realme GT 2 Explorer Master Edition,40990,realme|realme gt 2 explorer master edition,train
+Realme GT 2 Pro 5G,49959,realme|realme gt 2 pro 5g,test
+Realme GT 2 Pro 5G (12GB RAM + 256GB),46999,realme|realme gt 2 pro 5g,test
+Realme GT 5G,30994,realme|realme gt 5g,train
+Realme GT Explorer Master Edition,32990,realme|realme gt explorer master edition,train
+Realme GT Master Edition 5G,27999,realme|realme gt master edition 5g,test
+Realme GT Neo 3 5G,31994,realme|realme gt neo 3 5g,train
+Realme GT Neo 3T,24999,realme|realme gt neo 3t,train
+Realme GT Neo 3T (8GB RAM + 128GB),26499,realme|realme gt neo 3t,train
+Realme GT Neo 3T (8GB RAM + 256GB),28499,realme|realme gt neo 3t,train
+Realme GT Neo 4T,29999,realme|realme gt neo 4t,train
+Realme GT Neo 5,34999,realme|realme gt neo 5,train
+Realme GT Neo2 5G,31999,realme|realme gt neo2 5g,train
+Realme Narzo 20,10499,realme|realme narzo 20,test
+Realme Narzo 30 5G,16999,realme|realme narzo 30 5g,train
+Realme Narzo 30 Pro 5G (8GB RAM +128GB),19999,realme|realme narzo 30 pro 5g,train
+Realme Narzo 50,10999,realme|realme narzo 50,test
+Realme Narzo 50 (6GB RAM + 128GB),15499,realme|realme narzo 50,test
+Realme Narzo 50 5G,17999,realme|realme narzo 50 5g,train
+Realme Narzo 50 5G (4GB RAM + 128GB),14999,realme|realme narzo 50 5g,train
+Realme Narzo 50 5G (4GB RAM + 64GB),13499,realme|realme narzo 50 5g,train
+Realme Narzo 50 Pro 5G,20490,realme|realme narzo 50 pro 5g,test
+Realme Narzo 50 Pro 5G (8GB RAM + 128GB),22999,realme|realme narzo 50 pro 5g,test
+Realme Narzo 50A,11499,realme|realme narzo 50a,train
+Realme Narzo 50A Prime,11399,realme|realme narzo 50a prime,test
+Realme Narzo 50A Prime (4GB RAM + 128GB),11879,realme|realme narzo 50a prime,test
+Realme Narzo 50i,6490,realme|realme narzo 50i,test
+Realme Narzo 50i (4GB RAM + 64GB),8999,realme|realme narzo 50i,test
+Realme Narzo 50i Prime,7999,realme|realme narzo 50i prime,train
+Realme Narzo 50i Prime (4GB RAM + 64GB),8720,realme|realme narzo 50i prime,train
+Realme Q2i,9999,realme|realme q2i,train
+Realme Q3,14999,realme|realme q3,train
+Realme Q3i 5G,10990,realme|realme q3i 5g,train
+Realme Q5 5G,14990,realme|realme q5 5g,train
+Realme X50 Pro 5G (12GB RAM + 256GB),27999,realme|realme x50 pro 5g,train
+Realme X50 Pro 5G (8GB RAM + 128GB),24999,realme|realme x50 pro 5g,train
+Realme X7 Max,26999,realme|realme x7 max,train
+Realme XT,13279,realme|realme xt,train
+Redmi 12C,7999,redmi|redmi 12c,test
+Redmi Note 11 Pro 2023,18999,redmi|redmi note 11 pro 2023,train
+Redmi Note 12 Pro Speed Edition,19999,redmi|redmi note 12 pro speed edition,train
+Royole FlexPai 2,109999,royole|royole flexpai 2,test
+Royole FlexPai 3 5G,149999,royole|royole flexpai 3 5g,train
+Samsung Galaxy A01 Core,4999,samsung|samsung galaxy a01 core,train
+Samsung Galaxy A03,7249,samsung|samsung galaxy a03,train
+Samsung Galaxy A03 (4GB RAM + 64GB),11499,samsung|samsung galaxy a03,train
+Samsung Galaxy A03 Core,6499,samsung|samsung galaxy a03 core,train
+Samsung Galaxy A03s,8499,samsung|samsung galaxy a03s,test
+Samsung Galaxy A04,11999,samsung|samsung galaxy a04,train
+Samsung Galaxy A04 (4GB RAM + 128GB),12999,samsung|samsung galaxy a04,train
+Samsung Galaxy A04e,9299,samsung|samsung galaxy a04e,train
+Samsung Galaxy A04e (3GB RAM + 64GB),9950,samsung|samsung galaxy a04e,train
+Samsung Galaxy A04e (4GB RAM + 128GB),11499,samsung|samsung galaxy a04e,train
+Samsung Galaxy A04s,12990,samsung|samsung galaxy a04s,train
+Samsung Galaxy A04s (4GB RAM + 128GB),14499,samsung|samsung galaxy a04s,train
+Samsung Galaxy A05,12990,samsung|samsung galaxy a05,train
+Samsung Galaxy A11,9990,samsung|samsung galaxy a11,train
+Samsung Galaxy A12,11999,samsung|samsung galaxy a12,train
+Samsung Galaxy A12 (6GB RAM + 128GB),13999,samsung|samsung galaxy a12,train
+Samsung Galaxy A13,14450,samsung|samsung galaxy a13,train
+Samsung Galaxy A13 (4GB RAM + 128GB),14999,samsung|samsung galaxy a13,train
+Samsung Galaxy A13 (6GB RAM + 128GB),16499,samsung|samsung galaxy a13,train
+Samsung Galaxy A13 5G,17990,samsung|samsung galaxy a13 5g,train
+Samsung Galaxy A14 5G,16499,samsung|samsung galaxy a14 5g,train
+Samsung Galaxy A14 5G (6GB RAM + 128GB),18999,samsung|samsung galaxy a14 5g,train
+Samsung Galaxy A14 5G (8GB RAM + 128GB),20999,samsung|samsung galaxy a14 5g,train
+Samsung Galaxy A15,15990,samsung|samsung galaxy a15,train
+Samsung Galaxy A21s (6GB RAM + 128GB),17499,samsung|samsung galaxy a21s,train
+Samsung Galaxy A22,18499,samsung|samsung galaxy a22,train
+Samsung Galaxy A22 5G,17990,samsung|samsung galaxy a22 5g,train
+Samsung Galaxy A23,18499,samsung|samsung galaxy a23,test
+Samsung Galaxy A23 (8GB RAM + 128GB),19990,samsung|samsung galaxy a23,test
+Samsung Galaxy A23 5G,22999,samsung|samsung galaxy a23 5g,train
+Samsung Galaxy A23 5G (8GB RAM + 128GB),24999,samsung|samsung galaxy a23 5g,train
+Samsung Galaxy A24,17999,samsung|samsung galaxy a24,train
+Samsung Galaxy A32,16499,samsung|samsung galaxy a32,train
+Samsung Galaxy A32 (8GB RAM + 128GB),16499,samsung|samsung galaxy a32,train
+Samsung Galaxy A32 5G,24499,samsung|samsung galaxy a32 5g,train
+Samsung Galaxy A33 5G,25999,samsung|samsung galaxy a33 5g,train
+Samsung Galaxy A33 5G (8GB RAM + 128GB),27499,samsung|samsung galaxy a33 5g,train
+Samsung Galaxy A34 5G,24999,samsung|samsung galaxy a34 5g,train
+Samsung Galaxy A40,17990,samsung|samsung galaxy a40,train
+Samsung Galaxy A50s,15990,samsung|samsung galaxy a50s,train
+Samsung Galaxy A52,24990,samsung|samsung galaxy a52,train
+Samsung Galaxy A52 (8GB RAM + 128GB),22494,samsung|samsung galaxy a52,train
+Samsung Galaxy A53 (8GB RAM + 256GB),36499,samsung|samsung galaxy a53,train
+Samsung Galaxy A53 5G,31999,samsung|samsung galaxy a53 5g,train
+Samsung Galaxy A53 5G (8GB RAM + 128GB),33499,samsung|samsung galaxy a53 5g,train
+Samsung Galaxy A54 5G,34999,samsung|samsung galaxy a54 5g,train
+Samsung Galaxy A7 (2018),21490,samsung|samsung galaxy a7 (2018),train
+Samsung Galaxy A71,22494,samsung|samsung galaxy a71,train
+Samsung Galaxy A73 5G,41999,samsung|samsung galaxy a73 5g,train
+Samsung Galaxy A73 5G (8GB RAM + 256GB),41990,samsung|samsung galaxy a73 5g,train
+Samsung Galaxy A74 5G,42999,samsung|samsung galaxy a74 5g,train
+Samsung Galaxy A75 5G,44999,samsung|samsung galaxy a75 5g,train
+Samsung Galaxy A82 5G,39990,samsung|samsung galaxy a82 5g,train
+Samsung Galaxy A83 5G,39990,samsung|samsung galaxy a83 5g,train
+Samsung Galaxy A9 Pro (2019),39990,samsung|samsung galaxy a9 pro (2019),train
+Samsung Galaxy A92 5G,47990,samsung|samsung galaxy a92 5g,train
+Samsung Galaxy F04,8499,samsung|samsung galaxy f04,test
+Samsung Galaxy F12,10499,samsung|samsung galaxy f12,train
+Samsung Galaxy F13,10999,samsung|samsung galaxy f13,train
+Samsung Galaxy F13 (4GB RAM + 128GB),11999,samsung|samsung galaxy f13,train
+Samsung Galaxy F14,14990,samsung|samsung galaxy f14,test
+Samsung Galaxy F22,11499,samsung|samsung galaxy f22,train
+Samsung Galaxy F22 (6GB RAM + 128GB),13499,samsung|samsung galaxy f22,train
+Samsung Galaxy F23 5G,15999,samsung|samsung galaxy f23 5g,train
+Samsung Galaxy F23 5G (6GB RAM + 128GB),16999,samsung|samsung galaxy f23 5g,train
+Samsung Galaxy F24 5G,14999,samsung|samsung galaxy f24 5g,test
+Samsung Galaxy F41 (6GB RAM + 128GB),19999,samsung|samsung galaxy f41,test
+Samsung Galaxy F42 5G,15490,samsung|samsung galaxy f42 5g,test
+Samsung Galaxy F42 5G (8GB RAM + 128GB),22999,samsung|samsung galaxy f42 5g,test
+Samsung Galaxy F63,21999,samsung|samsung galaxy f63,train
+Samsung Galaxy M04,8499,samsung|samsung galaxy m04,train
+Samsung Galaxy M04 (4GB RAM + 128GB),9499,samsung|samsung galaxy m04,train
+Samsung Galaxy M12,10999,samsung|samsung galaxy m12,train
+Samsung Galaxy M13,12999,samsung|samsung galaxy m13,train
+Samsung Galaxy M13 (4GB RAM + 64GB),10630,samsung|samsung galaxy m13,train
+Samsung Galaxy M13 5G,13999,samsung|samsung galaxy m13 5g,test
+Samsung Galaxy M13 5G (4GB RAM + 64GB),12944,samsung|samsung galaxy m13 5g,test
+Samsung Galaxy M14,14999,samsung|samsung galaxy m14,train
+Samsung Galaxy M21 2021,11725,samsung|samsung galaxy m21 2021,train
+Samsung Galaxy M32,12364,samsung|samsung galaxy m32,train
+Samsung Galaxy M32 (6GB RAM + 128GB),14490,samsung|samsung galaxy m32,train
+Samsung Galaxy M32 Prime Edition,12120,samsung|samsung galaxy m32 prime edition,train
+Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB),14859,samsung|samsung galaxy m32 prime edition,train
+Samsung Galaxy M33 5G,17478,samsung|samsung galaxy m33 5g,train
+Samsung Galaxy M33 5G (8GB RAM + 128GB),19499,samsung|samsung galaxy m33 5g,train
+Samsung Galaxy M34 5G,16999,samsung|samsung galaxy m34 5g,test
+Samsung Galaxy M35,22999,samsung|samsung galaxy m35,test
+Samsung Galaxy M51s 5G,24990,samsung|samsung galaxy m51s 5g,train
+Samsung Galaxy M52s 5G,24990,samsung|samsung galaxy m52s 5g,train
+Samsung Galaxy M53 5G,23790,samsung|samsung galaxy m53 5g,train
+Samsung Galaxy M53 5G (8GB RAM + 128GB),25289,samsung|samsung galaxy m53 5g,train
+Samsung Galaxy M54 5G,34999,samsung|samsung galaxy m54 5g,train
+Samsung Galaxy M62,23999,samsung|samsung galaxy m62,train
+Samsung Galaxy Note 10 Lite,39999,samsung|samsung galaxy note 10 lite,test
+Samsung Galaxy Note 10 Plus,58999,samsung|samsung galaxy note 10 plus,train
+Samsung Galaxy Note 10 Plus 5G,92999,samsung|samsung galaxy note 10 plus 5g,train
+Samsung Galaxy Note 20,86000,samsung|samsung galaxy note 20,test
+Samsung Galaxy Note 30 Ultra 5G,104999,samsung|samsung galaxy note 30 ultra 5g,test
+Samsung Galaxy S10 5G,78990,samsung|samsung galaxy s10 5g,train
+Samsung Galaxy S10 Plus,42999,samsung|samsung galaxy s10 plus,train
+Samsung Galaxy S20,41999,samsung|samsung galaxy s20,train
+Samsung Galaxy S20 5G,74999,samsung|samsung galaxy s20 5g,train
+Samsung Galaxy S20 FE,35489,samsung|samsung galaxy s20 fe,train
+Samsung Galaxy S20 FE 5G,31239,samsung|samsung galaxy s20 fe 5g,test
+Samsung Galaxy S20 Plus,83000,samsung|samsung galaxy s20 plus,train
+Samsung Galaxy S20 Plus 5G,85990,samsung|samsung galaxy s20 plus 5g,test
+Samsung Galaxy S20 Ultra 5G,99999,samsung|samsung galaxy s20 ultra 5g,train
+Samsung Galaxy S21,48900,samsung|samsung galaxy s21,train
+Samsung Galaxy S21 FE 5G,39999,samsung|samsung galaxy s21 fe 5g,train
+Samsung Galaxy S21 FE 5G (8GB RAM + 256GB),43999,samsung|samsung galaxy s21 fe 5g,train
+Samsung Galaxy S21 Plus,59450,samsung|samsung galaxy s21 plus,train
+Samsung Galaxy S21 Ultra,105999,samsung|samsung galaxy s21 ultra,train
+Samsung Galaxy S21 Ultra 5G (12GB RAM + 128GB),101999,samsung|samsung galaxy s21 ultra 5g,train
+Samsung Galaxy S22 5G,49999,samsung|samsung galaxy s22 5g,train
+Samsung Galaxy S22 5G (8GB RAM + 256GB),57999,samsung|samsung galaxy s22 5g,train
+Samsung Galaxy S22 FE 5G,51999,samsung|samsung galaxy s22 fe 5g,train
+Samsung Galaxy S22 Plus 5G,64449,samsung|samsung galaxy s22 plus 5g,test
+Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB),88999,samsung|samsung galaxy s22 plus 5g,test
+Samsung Galaxy S22 Ultra 5G,91999,samsung|samsung galaxy s22 ultra 5g,train
+Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB),118999,samsung|samsung galaxy s22 ultra 5g,train
+Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB),99990,samsung|samsung galaxy s22 ultra 5g,train
+Samsung Galaxy S23,70990,samsung|samsung galaxy s23,test
+Samsung Galaxy S23 FE 5G,54999,samsung|samsung galaxy s23 fe 5g,train
+Samsung Galaxy S23 Plus,84990,samsung|samsung galaxy s23 plus,train
+Samsung Galaxy S23 Ultra 5G,114990,samsung|samsung galaxy s23 ultra 5g,train
+Samsung Galaxy S24 Ultra,119990,samsung|samsung galaxy s24 ultra,train
+Samsung Galaxy S9 Plus (128GB),34999,samsung|samsung galaxy s9 plus,train
+Samsung Galaxy Z Flip 3,69999,samsung|samsung galaxy z flip 3,train
+Samsung Galaxy Z Flip 4 5G,89999,samsung|samsung galaxy z flip 4 5g,train
+Samsung Galaxy Z Fold 3,110999,samsung|samsung galaxy z fold 3,train
+Samsung Galaxy Z Fold 4,154998,samsung|samsung galaxy z fold 4,test
+Samsung Galaxy Z Fold 4 (12GB RAM + 1TB),163980,samsung|samsung galaxy z fold 4,test
+Sharp Aquos R5G,59990,sharp|sharp aquos r5g,train
+Sony Xperia 1 II,69999,sony|sony xperia 1 ii,test
+Sony Xperia 1 IV (12GB RAM + 512GB),92980,sony|sony xperia 1 iv,train
+Sony Xperia 10 II,27999,sony|sony xperia 10 ii,train
+Sony Xperia 10 III Lite 5G,30990,sony|sony xperia 10 iii lite 5g,train
+Sony Xperia 5 II,69990,sony|sony xperia 5 ii,train
+Sony Xperia 5 IV 5G,82199,sony|sony xperia 5 iv 5g,train
+Sony Xperia Ace IV,19990,sony|sony xperia ace iv,train
+Sony Xperia L5 5G,15990,sony|sony xperia l5 5g,train
+Sony Xperia Pro-I,134999,sony|sony xperia pro-i,train
+TCL Ion X,8990,tcl|tcl ion x,train
+Tecno Camon 18,11499,tecno|tecno camon 18,train
+Tecno Camon 19,14746,tecno|tecno camon 19,train
+Tecno Camon 19 Neo,14999,tecno|tecno camon 19 neo,test
+Tecno Camon 19 Pro,17990,tecno|tecno camon 19 pro,train
+Tecno Camon 19 Pro 5G,21999,tecno|tecno camon 19 pro 5g,train
+Tecno Camon 19 Pro Mondrian Edition,17999,tecno|tecno camon 19 pro mondrian edition,train
+Tecno Camon 20 Premier,20999,tecno|tecno camon 20 premier,train
+Tecno Phantom X,25999,tecno|tecno phantom x,train
+Tecno Phantom X Pro,22999,tecno|tecno phantom x pro,train
+Tecno Phantom X2,39999,tecno|tecno phantom x2,train
+Tecno Phantom X2 Pro,49999,tecno|tecno phantom x2 pro,train
+Tecno Pop 5 Go,6999,tecno|tecno pop 5 go,train
+Tecno Pop 6 Pro,6299,tecno|tecno pop 6 pro,train
+Tecno Pova 2,10999,tecno|tecno pova 2,train
+Tecno Pova 3,9999,tecno|tecno pova 3,train
+Tecno Pova 3 (6GB RAM + 128GB),13799,tecno|tecno pova 3,train
+Tecno Pova 4,11999,tecno|tecno pova 4,train
+Tecno Pova 4 Pro,15999,tecno|tecno pova 4 pro,train
+Tecno Pova 5G,15499,tecno|tecno pova 5g,train
+Tecno Pova Neo 2,13990,tecno|tecno pova neo 2,train
+Tecno Pova Neo 5G,15499,tecno|tecno pova neo 5g,train
+Tecno Spark 8 (4GB RAM + 64GB),8999,tecno|tecno spark 8,train
+Tecno Spark 8 Pro,8799,tecno|tecno spark 8 pro,train
+Tecno Spark 8C,7399,tecno|tecno spark 8c,train
+Tecno Spark 8C (4GB RAM + 64GB),8890,tecno|tecno spark 8c,train
+Tecno Spark 8T,7999,tecno|tecno spark 8t,test
+Tecno Spark 9,8999,tecno|tecno spark 9,train
+Tecno Spark 9 (3GB RAM + 64GB),8390,tecno|tecno spark 9,train
+Tecno Spark 9 (4GB RAM + 64GB),7999,tecno|tecno spark 9,train
+Tecno Spark 9 Pro,9999,tecno|tecno spark 9 pro,test
+Tecno Spark 9T,8968,tecno|tecno spark 9t,train
+Tecno Spark Go 2022,6249,tecno|tecno spark go 2022,train
+Tecno Spark Go 2023,6999,tecno|tecno spark go 2023,test
+Tesla Pi Phone,69999,tesla|tesla pi phone,test
+Vertu Signature Touch,650000,vertu|vertu signature touch,train
+Vivo S1 Pro,29999,vivo|vivo s1 pro,train
+Vivo S16,29990,vivo|vivo s16,train
+Vivo S16 Pro,35499,vivo|vivo s16 pro,train
+Vivo S17 Pro,49990,vivo|vivo s17 pro,test
+Vivo T1 44W,14499,vivo|vivo t1 44w,train
+Vivo T1 44W (6GB RAM + 128GB),15999,vivo|vivo t1 44w,train
+Vivo T1 44W (8GB RAM + 128GB),17999,vivo|vivo t1 44w,train
+Vivo T1 5G,15990,vivo|vivo t1 5g,test
+Vivo T1 5G (6GB RAM + 128GB),16990,vivo|vivo t1 5g,test
+Vivo T1 5G (8GB RAM + 128GB),19990,vivo|vivo t1 5g,test
+Vivo T1 Pro,23999,vivo|vivo t1 pro,test
+Vivo T1 Pro 5G (8GB RAM + 128GB),24999,vivo|vivo t1 pro 5g,train
+Vivo T1x (4GB RAM + 128GB),12999,vivo|vivo t1x,train
+Vivo T1x (6GB RAM + 128GB),14999,vivo|vivo t1x,train
+Vivo T1x 4G,11999,vivo|vivo t1x 4g,train
+Vivo T2 5G,24990,vivo|vivo t2 5g,train
+Vivo T2 Pro 5G,29990,vivo|vivo t2 pro 5g,test
+Vivo T2x 5G,18990,vivo|vivo t2x 5g,train
+Vivo T3 Pro,31990,vivo|vivo t3 pro,test
+Vivo U3,9990,vivo|vivo u3,train
+Vivo U3 (6GB RAM + 64GB),11990,vivo|vivo u3,train
+Vivo U3x,8990,vivo|vivo u3x,train
+Vivo V11i,20990,vivo|vivo v11i,train
+Vivo V15 Pro (8GB RAM +128GB),25000,vivo|vivo v15 pro,train
+Vivo V19 (8GB RAM + 256GB),27990,vivo|vivo v19,test
+Vivo V20,23269,vivo|vivo v20,train
+Vivo V20 Pro,27000,vivo|vivo v20 pro,train
+Vivo V20 SE,19000,vivo|vivo v20 se,train
+Vivo V21,24999,vivo|vivo v21,train
+Vivo V21 5G,23994,vivo|vivo v21 5g,train
+Vivo V21 Pro,32999,vivo|vivo v21 pro,train
+Vivo V21s,29999,vivo|vivo v21s,test
+Vivo V23 5G,24994,vivo|vivo v23 5g,train
+Vivo V23 5G (12GB RAM + 256GB),27994,vivo|vivo v23 5g,train
+Vivo V23 Pro 5G,31994,vivo|vivo v23 pro 5g,train
+Vivo V23 Pro 5G (12GB RAM + 256GB),36994,vivo|vivo v23 pro 5g,train
+Vivo V23e,26990,vivo|vivo v23e,test
+Vivo V23e 5G,21994,vivo|vivo v23e 5g,train
+Vivo V25 (12GB RAM + 256GB),31999,vivo|vivo v25,test
+Vivo V25 5G,27999,vivo|vivo v25 5g,train
+Vivo V25 Pro (12GB RAM + 256GB),39999,vivo|vivo v25 pro,train
+Vivo V25 Pro 5G,35999,vivo|vivo v25 pro 5g,test
+Vivo V25e,19990,vivo|vivo v25e,train
+Vivo V26 Pro,42990,vivo|vivo v26 pro,train
+Vivo V27,27990,vivo|vivo v27,train
+Vivo V27 Pro,43999,vivo|vivo v27 pro,train
+Vivo V28,28990,vivo|vivo v28,train
+Vivo V29,32990,vivo|vivo v29,train
+Vivo X Fold 2,119990,vivo|vivo x fold 2,train
+Vivo X Fold 5G,106990,vivo|vivo x fold 5g,train
+Vivo X Fold 5G (12GB RAM + 512GB),118990,vivo|vivo x fold 5g,train
+Vivo X Fold Plus,113990,vivo|vivo x fold plus,train
+Vivo X Note 5G (12GB RAM + 512GB),82990,vivo|vivo x note 5g,train
+Vivo X80 5G,54999,vivo|vivo x80 5g,test
+Vivo X80 5G (12GB RAM + 256GB),59999,vivo|vivo x80 5g,test
+Vivo X80 Pro 5G,79999,vivo|vivo x80 pro 5g,train
+Vivo X80 Pro Plus 5G,82990,vivo|vivo x80 pro plus 5g,train
+Vivo X90 5G,41990,vivo|vivo x90 5g,test
+Vivo X90 Pro 5G,56999,vivo|vivo x90 pro 5g,test
+Vivo X90 Pro Plus 5G,73999,vivo|vivo x90 pro plus 5g,train
+Vivo Y01,7999,vivo|vivo y01,test
+Vivo Y01A,7790,vivo|vivo y01a,train
+Vivo Y02,8999,vivo|vivo y02,test
+Vivo Y02 (2GB RAM + 32GB),7999,vivo|vivo y02,test
+Vivo Y02s,8990,vivo|vivo y02s,train
+Vivo Y10,12490,vivo|vivo y10,train
+Vivo Y100,29990,vivo|vivo y100,test
+Vivo Y11 (2019),9490,vivo|vivo y11 (2019),train
+Vivo Y12 (3GB RAM + 64GB),11000,vivo|vivo y12,test
+Vivo Y12a,9999,vivo|vivo y12a,train
+Vivo Y12G (3GB RAM + 64GB),11990,vivo|vivo y12g,train
+Vivo Y15,12500,vivo|vivo y15,train
+Vivo Y15C,8499,vivo|vivo y15c,test
+Vivo Y15C (3GB RAM + 64GB),10490,vivo|vivo y15c,test
+Vivo Y15s,8499,vivo|vivo y15s,train
+Vivo Y16,9999,vivo|vivo y16,train
+Vivo Y16 (3GB RAM + 64GB),10499,vivo|vivo y16,train
+Vivo Y16 (4GB RAM + 64GB),12489,vivo|vivo y16,train
+Vivo Y19,20000,vivo|vivo y19,train
+Vivo Y20G,13990,vivo|vivo y20g,test
+Vivo Y21 (2020),9990,vivo|vivo y21 (2020),test
+Vivo Y21 2021,13489,vivo|vivo y21 2021,train
+Vivo Y21e,12499,vivo|vivo y21e,train
+Vivo Y21s,14990,vivo|vivo y21s,train
+Vivo Y21T,15499,vivo|vivo y21t,train
+Vivo Y22,14499,vivo|vivo y22,train
+Vivo Y22 (6GB RAM + 128GB),16499,vivo|vivo y22,train
+Vivo Y22s,14990,vivo|vivo y22s,train
+Vivo Y25,7499,vivo|vivo y25,train
+Vivo Y3 (4GB RAM + 128GB),12990,vivo|vivo y3,test
+Vivo Y33s,16685,vivo|vivo y33s,train
+Vivo Y33T,15990,vivo|vivo y33t,train
+Vivo Y35,18499,vivo|vivo y35,train
+Vivo Y35 5G,13999,vivo|vivo y35 5g,train
+Vivo Y53s,15490,vivo|vivo y53s,train
+Vivo Y53t,11999,vivo|vivo y53t,train
+Vivo Y55 4G,22990,vivo|vivo y55 4g,train
+Vivo Y55 5G,20990,vivo|vivo y55 5g,train
+Vivo Y55S,13490,vivo|vivo y55s,train
+Vivo Y55s 2023,21999,vivo|vivo y55s 2023,train
+Vivo Y55s 5G,19990,vivo|vivo y55s 5g,test
+Vivo Y71,25000,vivo|vivo y71,train
+Vivo Y73 2021,19990,vivo|vivo y73 2021,test
+Vivo Y73T,16990,vivo|vivo y73t,test
+Vivo Y75 4G,19990,vivo|vivo y75 4g,train
+Vivo Y75 5G,21990,vivo|vivo y75 5g,test
+Vivo Y77 5G,17990,vivo|vivo y77 5g,train
+Vivo Y78 5G,24990,vivo|vivo y78 5g,train
+Vivo Y91c,8199,vivo|vivo y91c,train
+Vivo Y93,18000,vivo|vivo y93,train
+Vivo Y95,15000,vivo|vivo y95,test
+Xiaomi 11i 5G (8GB RAM + 128GB),24990,xiaomi|xiaomi 11i 5g,train
+Xiaomi 11i HyperCharge 5G,24820,xiaomi|xiaomi 11i hypercharge 5g,train
+Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),26999,xiaomi|xiaomi 11i hypercharge 5g,train
+Xiaomi 11T Pro 5G (12GB RAM + 256GB),38999,xiaomi|xiaomi 11t pro 5g,train
+Xiaomi 12 Lite 5G,29990,xiaomi|xiaomi 12 lite 5g,train
+Xiaomi 12 Pro 5G,50990,xiaomi|xiaomi 12 pro 5g,test
+Xiaomi 12 Pro 5G (12GB RAM + 256GB),51880,xiaomi|xiaomi 12 pro 5g,test
+Xiaomi 12 Ultra 5G,75999,xiaomi|xiaomi 12 ultra 5g,train
+Xiaomi 12S Ultra,69990,xiaomi|xiaomi 12s ultra,train
+Xiaomi 12T,48990,xiaomi|xiaomi 12t,train
+Xiaomi 12T Pro 5G,59990,xiaomi|xiaomi 12t pro 5g,test
+Xiaomi 13 5G,46990,xiaomi|xiaomi 13 5g,train
+Xiaomi 13 Pro 5G,58990,xiaomi|xiaomi 13 pro 5g,train
+Xiaomi 13 Ultra 5G,71999,xiaomi|xiaomi 13 ultra 5g,train
+Xiaomi 14,54999,xiaomi|xiaomi 14,train
+Xiaomi Civi 2,29999,xiaomi|xiaomi civi 2,train
+Xiaomi Civi 3,32990,xiaomi|xiaomi civi 3,train
+Xiaomi Mi 10 5G (8GB RAM + 256GB),54999,xiaomi|xiaomi mi 10 5g,train
+Xiaomi Mi 10T 5G,23500,xiaomi|xiaomi mi 10t 5g,train
+Xiaomi Mi 10T Pro 5G,29999,xiaomi|xiaomi mi 10t pro 5g,train
+Xiaomi Mi 11 Lite (8GB RAM + 128GB),18699,xiaomi|xiaomi mi 11 lite,train
+Xiaomi Mi 11 Lite NE 5G,21890,xiaomi|xiaomi mi 11 lite ne 5g,train
+Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB),22999,xiaomi|xiaomi mi 11 lite ne 5g,train
+Xiaomi Mi 11i 5G,23499,xiaomi|xiaomi mi 11i 5g,train
+Xiaomi Mi 11T Pro 5G,34990,xiaomi|xiaomi mi 11t pro 5g,train
+Xiaomi Mi 11X,23890,xiaomi|xiaomi mi 11x,test
+Xiaomi Mi 11X 5G (8GB RAM + 128GB),25990,xiaomi|xiaomi mi 11x 5g,test
+Xiaomi Mi 11X Pro,30990,xiaomi|xiaomi mi 11x pro,test
+Xiaomi Mi 12 5G,42990,xiaomi|xiaomi mi 12 5g,train
+Xiaomi Mi Mix Alpha,199990,xiaomi|xiaomi mi mix alpha,train
+Xiaomi Mi Mix Fold,109990,xiaomi|xiaomi mi mix fold,test
+Xiaomi Mix Fold 2 5G,106990,xiaomi|xiaomi mix fold 2 5g,train
+Xiaomi Poco F1,11999,xiaomi|xiaomi poco f1,train
+Xiaomi Poco F1 (6GB RAM + 128GB),12999,xiaomi|xiaomi poco f1,train
+Xiaomi Redmi 10,9589,xiaomi|xiaomi redmi 10,train
+Xiaomi Redmi 10 (6GB RAM + 128GB),11999,xiaomi|xiaomi redmi 10,train
+Xiaomi Redmi 10 Power,11999,xiaomi|xiaomi redmi 10 power,test
+Xiaomi Redmi 10 Prime,12390,xiaomi|xiaomi redmi 10 prime,train
+Xiaomi Redmi 10 Prime (6GB RAM + 128GB),12999,xiaomi|xiaomi redmi 10 prime,train
+Xiaomi Redmi 10 Prime Plus 5G,13990,xiaomi|xiaomi redmi 10 prime plus 5g,train
+Xiaomi Redmi 10A,7499,xiaomi|xiaomi redmi 10a,train
+Xiaomi Redmi 10A (4GB RAM + 64GB),8388,xiaomi|xiaomi redmi 10a,train
+Xiaomi Redmi 10A (6GB RAM + 128GB),10850,xiaomi|xiaomi redmi 10a,train
+Xiaomi Redmi 10A Sport,9999,xiaomi|xiaomi redmi 10a sport,train
+Xiaomi Redmi 10C,13990,xiaomi|xiaomi redmi 10c,train
+Xiaomi Redmi 10C (4GB RAM + 128GB),14990,xiaomi|xiaomi redmi 10c,train
+Xiaomi Redmi 11 Prime,11600,xiaomi|xiaomi redmi 11 prime,train
+Xiaomi Redmi 11 Prime (6GB RAM + 128GB),13774,xiaomi|xiaomi redmi 11 prime,train
+Xiaomi Redmi 11 Prime 5G,13466,xiaomi|xiaomi redmi 11 prime 5g,train
+Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),15990,xiaomi|xiaomi redmi 11 prime 5g,train
+Xiaomi Redmi 13 Prime 5G,17990,xiaomi|xiaomi redmi 13 prime 5g,train
+Xiaomi Redmi 20X,10990,xiaomi|xiaomi redmi 20x,train
+Xiaomi Redmi 8 (4GB RAM + 64GB),11490,xiaomi|xiaomi redmi 8,train
+Xiaomi Redmi 9,8999,xiaomi|xiaomi redmi 9,train
+Xiaomi Redmi 9 Activ,7499,xiaomi|xiaomi redmi 9 activ,train
+Xiaomi Redmi 9 Activ (6GB RAM + 128GB),10499,xiaomi|xiaomi redmi 9 activ,train
+Xiaomi Redmi 9 Power,11499,xiaomi|xiaomi redmi 9 power,train
+Xiaomi Redmi 9A,6999,xiaomi|xiaomi redmi 9a,train
+Xiaomi Redmi 9A (6GB RAM + 128GB),10990,xiaomi|xiaomi redmi 9a,train
+Xiaomi Redmi 9A Sport,6499,xiaomi|xiaomi redmi 9a sport,train
+Xiaomi Redmi 9i (4GB RAM + 128GB),9299,xiaomi|xiaomi redmi 9i,test
+Xiaomi Redmi 9i Sport,7499,xiaomi|xiaomi redmi 9i sport,train
+Xiaomi Redmi A1,6171,xiaomi|xiaomi redmi a1,train
+Xiaomi Redmi A1 Plus,7289,xiaomi|xiaomi redmi a1 plus,train
+Xiaomi Redmi A1 Plus (3GB RAM + 32GB),8399,xiaomi|xiaomi redmi a1 plus,train
+Xiaomi Redmi K20 Pro Signature Edition,480000,xiaomi|xiaomi redmi k20 pro signature edition,train
+Xiaomi Redmi K50 5G,27990,xiaomi|xiaomi redmi k50 5g,train
+Xiaomi Redmi K50 Ultra 5G,39999,xiaomi|xiaomi redmi k50 ultra 5g,test
+Xiaomi Redmi K50i (8GB RAM + 256GB),25999,xiaomi|xiaomi redmi k50i,train
+Xiaomi Redmi K50i 5G,22999,xiaomi|xiaomi redmi k50i 5g,train
+Xiaomi Redmi K60,29990,xiaomi|xiaomi redmi k60,train
+Xiaomi Redmi K60 Gaming Edition,54990,xiaomi|xiaomi redmi k60 gaming edition,test
+Xiaomi Redmi K60 Pro,38999,xiaomi|xiaomi redmi k60 pro,train
+Xiaomi Redmi K60E,25999,xiaomi|xiaomi redmi k60e,train
+Xiaomi Redmi K60i,28999,xiaomi|xiaomi redmi k60i,train
+Xiaomi Redmi Note 10,13990,xiaomi|xiaomi redmi note 10,train
+Xiaomi Redmi Note 10 (6GB RAM + 128GB),16499,xiaomi|xiaomi redmi note 10,train
+Xiaomi Redmi Note 10 5G,12490,xiaomi|xiaomi redmi note 10 5g,train
+Xiaomi Redmi Note 10 Lite,9999,xiaomi|xiaomi redmi note 10 lite,train
+Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB),12499,xiaomi|xiaomi redmi note 10 lite,train
+Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB),11999,xiaomi|xiaomi redmi note 10 lite,train
+Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB),17999,xiaomi|xiaomi redmi note 10 pro,test
+Xiaomi Redmi Note 10 Pro 5G,16999,xiaomi|xiaomi redmi note 10 pro 5g,train
+Xiaomi Redmi Note 10 Pro Max,19999,xiaomi|xiaomi redmi note 10 pro max,train
+Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),19980,xiaomi|xiaomi redmi note 10 pro max,train
+Xiaomi Redmi Note 10S,10999,xiaomi|xiaomi redmi note 10s,test
+Xiaomi Redmi Note 10S (6GB RAM + 128GB),11999,xiaomi|xiaomi redmi note 10s,test
+Xiaomi Redmi Note 10S (8GB RAM + 128GB),13999,xiaomi|xiaomi redmi note 10s,test
+Xiaomi Redmi Note 10T 5G,12999,xiaomi|xiaomi redmi note 10t 5g,test
+Xiaomi Redmi Note 10T 5G (6GB RAM +128GB),13999,xiaomi|xiaomi redmi note 10t 5g,test
+Xiaomi Redmi Note 11,11936,xiaomi|xiaomi redmi note 11,test
+Xiaomi Redmi Note 11 (6GB RAM + 128GB),14290,xiaomi|xiaomi redmi note 11,test
+Xiaomi Redmi Note 11 (6GB RAM + 64GB),12188,xiaomi|xiaomi redmi note 11,test
+Xiaomi Redmi Note 11 5G,14990,xiaomi|xiaomi redmi note 11 5g,train
+Xiaomi Redmi Note 11 Pro 4G,17999,xiaomi|xiaomi redmi note 11 pro 4g,train
+Xiaomi Redmi Note 11 Pro 5G,17990,xiaomi|xiaomi redmi note 11 pro 5g,train
+Xiaomi Redmi Note 11 Pro Max 5G,19999,xiaomi|xiaomi redmi note 11 pro max 5g,train
+Xiaomi Redmi Note 11 Pro Plus 5G,19999,xiaomi|xiaomi redmi note 11 pro plus 5g,train
+Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 128GB),22700,xiaomi|xiaomi redmi note 11 pro plus 5g,train
+Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB),22999,xiaomi|xiaomi redmi note 11 pro plus 5g,train
+Xiaomi Redmi Note 11E 5G,13990,xiaomi|xiaomi redmi note 11e 5g,train
+Xiaomi Redmi Note 11R,12990,xiaomi|xiaomi redmi note 11r,train
+Xiaomi Redmi Note 11S,14590,xiaomi|xiaomi redmi note 11s,train
+Xiaomi Redmi Note 11S (6GB RAM + 128GB),15499,xiaomi|xiaomi redmi note 11s,train
+Xiaomi Redmi Note 11S (8GB RAM + 128GB),15824,xiaomi|xiaomi redmi note 11s,train
+Xiaomi Redmi Note 11SE,11999,xiaomi|xiaomi redmi note 11se,train
+Xiaomi Redmi Note 11T 5G,16999,xiaomi|xiaomi redmi note 11t 5g,test
+Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),16999,xiaomi|xiaomi redmi note 11t 5g,test
+Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),18499,xiaomi|xiaomi redmi note 11t 5g,test
+Xiaomi Redmi Note 11T Pro 5G,19990,xiaomi|xiaomi redmi note 11t pro 5g,train
+Xiaomi Redmi Note 12,17859,xiaomi|xiaomi redmi note 12,train
+Xiaomi Redmi Note 12 (6GB RAM + 128GB),19988,xiaomi|xiaomi redmi note 12,train
+Xiaomi Redmi Note 12 4G,13999,xiaomi|xiaomi redmi note 12 4g,train
+Xiaomi Redmi Note 12 Discovery Edition,26990,xiaomi|xiaomi redmi note 12 discovery edition,train
+Xiaomi Redmi Note 12 Explorer,24999,xiaomi|xiaomi redmi note 12 explorer,train
+Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),26999,xiaomi|xiaomi redmi note 12 pro,train
+Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),27994,xiaomi|xiaomi redmi note 12 pro,train
+Xiaomi Redmi Note 12 Pro 4G,14999,xiaomi|xiaomi redmi note 12 pro 4g,train
+Xiaomi Redmi Note 12 Pro 5G,24762,xiaomi|xiaomi redmi note 12 pro 5g,train
+Xiaomi Redmi Note 12 Pro Max 5G,32999,xiaomi|xiaomi redmi note 12 pro max 5g,test
+Xiaomi Redmi Note 12 Pro Plus,29999,xiaomi|xiaomi redmi note 12 pro plus,train
+Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),32999,xiaomi|xiaomi redmi note 12 pro plus,train
+Xiaomi Redmi Note 12 Pro Plus (6GB RAM + 128GB),26999,xiaomi|xiaomi redmi note 12 pro plus,train
+Xiaomi Redmi Note 12 Turbo,19999,xiaomi|xiaomi redmi note 12 turbo,train
+Xiaomi Redmi Note 12T 5G,15999,xiaomi|xiaomi redmi note 12t 5g,train
+Xiaomi Redmi Note 13 Pro 5G,17990,xiaomi|xiaomi redmi note 13 pro 5g,train
+Xiaomi Redmi Note 13 Pro Max 5G,20499,xiaomi|xiaomi redmi note 13 pro max 5g,train
+Xiaomi Redmi Note 4,10300,xiaomi|xiaomi redmi note 4,train
+Xiaomi Redmi Note 8 2021,9990,xiaomi|xiaomi redmi note 8 2021,train
+Xiaomi Redmi Note 8 Pro,16999,xiaomi|xiaomi redmi note 8 pro,test
+Xiaomi Redmi Note 9,11989,xiaomi|xiaomi redmi note 9,test
+Xiaomi Redmi Note 9 Pro,13999,xiaomi|xiaomi redmi note 9 pro,test
+Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB),14439,xiaomi|xiaomi redmi note 9 pro,test
+Xiaomi Redmi Note 9 Pro Max,16490,xiaomi|xiaomi redmi note 9 pro max,train
+ZTE Axon 30S,19999,zte|zte axon 30s,test
+ZTE Axon 40 Ultra 5G,61990,zte|zte axon 40 ultra 5g,train
